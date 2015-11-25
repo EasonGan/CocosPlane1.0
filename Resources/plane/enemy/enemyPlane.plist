@@ -7,7 +7,7 @@
             <key>plane_1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,611},{68,72}}</string>
+                <string>{{638,488},{68,72}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -20,20 +20,20 @@
             <key>plane_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{795,323},{132,188}}</string>
+                <string>{{542,137},{132,188}}</string>
                 <key>offset</key>
-                <string>{-2,-2}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{4,7},{132,188}}</string>
+                <string>{{0,0},{132,188}}</string>
                 <key>sourceSize</key>
-                <string>{144,198}</string>
+                <string>{132,188}</string>
             </dict>
             <key>plane_11.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{546,335},{152,149}}</string>
+                <string>{{727,351},{152,149}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -46,7 +46,7 @@
             <key>plane_12.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{700,449},{68,73}}</string>
+                <string>{{638,418},{68,73}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -59,7 +59,7 @@
             <key>plane_13.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{545,486},{105,128}}</string>
+                <string>{{2,335},{105,128}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -72,7 +72,7 @@
             <key>plane_14.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,202},{161,172}}</string>
+                <string>{{732,188},{161,172}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -85,20 +85,20 @@
             <key>plane_15.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{553,168},{240,165}}</string>
+                <string>{{302,2},{238,165}}</string>
                 <key>offset</key>
-                <string>{-15,-2}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,6},{240,165}}</string>
+                <string>{{1,0},{238,165}}</string>
                 <key>sourceSize</key>
-                <string>{270,173}</string>
+                <string>{240,165}</string>
             </dict>
             <key>plane_16.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{464,296},{80,65}}</string>
+                <string>{{647,271},{80,65}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -111,50 +111,50 @@
             <key>plane_17.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{294,537},{130,103}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{130,103}}</string>
-                <key>sourceSize</key>
-                <string>{130,103}</string>
-            </dict>
-            <key>plane_18.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{302,400},{135,141}}</string>
+                <string>{{290,285},{126,128}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{135,141}}</string>
+                <string>{{1,0},{126,128}}</string>
                 <key>sourceSize</key>
-                <string>{135,141}</string>
+                <string>{128,128}</string>
+            </dict>
+            <key>plane_18.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{156,314},{128,122}}</string>
+                <key>offset</key>
+                <string>{0,-2}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,5},{128,122}}</string>
+                <key>sourceSize</key>
+                <string>{128,128}</string>
             </dict>
             <key>plane_19.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,500},{120,109}}</string>
+                <string>{{420,375},{126,124}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{1,1}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{120,109}}</string>
+                <string>{{2,1},{126,124}}</string>
                 <key>sourceSize</key>
-                <string>{120,109}</string>
+                <string>{128,128}</string>
             </dict>
             <key>plane_2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{445,443},{98,103}}</string>
+                <string>{{2,547},{98,103}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{98,103}}</string>
                 <key>sourceSize</key>
@@ -163,72 +163,72 @@
             <key>plane_20.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{304,2},{176,247}}</string>
+                <string>{{906,188},{122,116}}</string>
+                <key>offset</key>
+                <string>{-1,2}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{2,4},{122,116}}</string>
+                <key>sourceSize</key>
+                <string>{128,128}</string>
+            </dict>
+            <key>plane_21.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{298,198}}</string>
+                <key>offset</key>
+                <string>{1,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{2,0},{298,198}}</string>
+                <key>sourceSize</key>
+                <string>{300,198}</string>
+            </dict>
+            <key>plane_22.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{766,2},{192,184}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{192,184}}</string>
+                <key>sourceSize</key>
+                <string>{192,184}</string>
+            </dict>
+            <key>plane_23.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{286,413},{124,126}}</string>
+                <key>offset</key>
+                <string>{-2,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,1},{124,126}}</string>
+                <key>sourceSize</key>
+                <string>{128,128}</string>
+            </dict>
+            <key>plane_24.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{302,169},{114,183}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{176,247}}</string>
+                <string>{{0,0},{114,183}}</string>
                 <key>sourceSize</key>
-                <string>{176,247}</string>
-            </dict>
-            <key>plane_21.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,2},{300,198}}</string>
-                <key>offset</key>
-                <string>{-20,-4}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{5,10},{300,198}}</string>
-                <key>sourceSize</key>
-                <string>{350,210}</string>
-            </dict>
-            <key>plane_22.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{798,137},{192,184}}</string>
-                <key>offset</key>
-                <string>{23,-2}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{46,12},{192,184}}</string>
-                <key>sourceSize</key>
-                <string>{238,204}</string>
-            </dict>
-            <key>plane_23.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{553,2},{164,243}}</string>
-                <key>offset</key>
-                <string>{1,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{4,5},{164,243}}</string>
-                <key>sourceSize</key>
-                <string>{170,253}</string>
-            </dict>
-            <key>plane_24.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{304,180},{114,183}}</string>
-                <key>offset</key>
-                <string>{-5,-1}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{3,3},{114,183}}</string>
-                <key>sourceSize</key>
-                <string>{130,187}</string>
+                <string>{114,183}</string>
             </dict>
             <key>plane_25.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{176,202},{118,126}}</string>
+                <string>{{132,438},{118,126}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -241,59 +241,59 @@
             <key>plane_26.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{160,463},{110,132}}</string>
+                <string>{{156,202},{110,132}}</string>
                 <key>offset</key>
-                <string>{9,-5}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{18,12},{110,132}}</string>
+                <string>{{0,0},{110,132}}</string>
                 <key>sourceSize</key>
-                <string>{128,146}</string>
+                <string>{110,132}</string>
             </dict>
             <key>plane_27.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,365},{156,133}}</string>
+                <string>{{2,202},{152,131}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-2,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{156,133}}</string>
+                <string>{{0,1},{152,131}}</string>
                 <key>sourceSize</key>
                 <string>{156,133}</string>
             </dict>
             <key>plane_3.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{798,2},{133,224}}</string>
-                <key>offset</key>
-                <string>{9,-1}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{18,6},{133,224}}</string>
-                <key>sourceSize</key>
-                <string>{151,234}</string>
-            </dict>
-            <key>plane_4.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{426,548},{121,116}}</string>
+                <string>{{542,2},{133,222}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{18,1},{121,116}}</string>
+                <string>{{0,1},{133,222}}</string>
                 <key>sourceSize</key>
-                <string>{157,118}</string>
+                <string>{133,224}</string>
+            </dict>
+            <key>plane_4.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{906,312},{121,116}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{121,116}}</string>
+                <key>sourceSize</key>
+                <string>{121,116}</string>
             </dict>
             <key>plane_5.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{700,335},{88,112}}</string>
+                <string>{{548,375},{88,112}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -306,7 +306,7 @@
             <key>plane_6.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{464,363},{78,78}}</string>
+                <string>{{647,338},{78,78}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -319,11 +319,11 @@
             <key>plane_7.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{176,322},{139,124}}</string>
+                <string>{{881,435},{139,124}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{139,124}}</string>
                 <key>sourceSize</key>
@@ -332,28 +332,28 @@
             <key>plane_8.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{124,575},{103,120}}</string>
+                <string>{{2,442},{103,120}}</string>
                 <key>offset</key>
-                <string>{7,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{15,0},{103,120}}</string>
+                <string>{{0,0},{103,120}}</string>
                 <key>sourceSize</key>
-                <string>{119,120}</string>
+                <string>{103,120}</string>
             </dict>
             <key>plane_9.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{304,296},{102,158}}</string>
+                <string>{{487,271},{102,158}}</string>
                 <key>offset</key>
-                <string>{-6,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{102,158}}</string>
                 <key>sourceSize</key>
-                <string>{114,158}</string>
+                <string>{102,158}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -365,7 +365,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:03eb86b0a73ba793e66254744804ca68:0d111dfac4b5a65cf6a9a74cf11e20f6:812f80517dc66569af5c4f8221e86071$</string>
+            <string>$TexturePacker:SmartUpdate:f33aca26ae81f1df8e14c00425a80da9:e5b8a7d91e41696621597674411c55bd:812f80517dc66569af5c4f8221e86071$</string>
             <key>textureFileName</key>
             <string>enemyPlane.png</string>
         </dict>
