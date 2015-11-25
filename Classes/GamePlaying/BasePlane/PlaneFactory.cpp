@@ -243,7 +243,7 @@ BasePlane* PlaneFactory::createEnemyPlane(LevelPlaneConfigData* configData)
 			break;
 		case 1003:
 			{
-				pl = BoneWarriorBoss::create("boss-siling",1);
+				pl = BoneWarriorBoss::create("BoneWarrior",1);
 				pl->setHpEff(HpEff(1.0f,100.0f));		//???????
 //				pl->addRewards(0.0f, 19, DropGoodsType::DropGoods_Gold1);
 //				pl->addRewards(0.0f, 9, DropGoodsType::DropGoods_Gold2);
@@ -256,7 +256,7 @@ BasePlane* PlaneFactory::createEnemyPlane(LevelPlaneConfigData* configData)
 			break;
 		case 1004:
 			{
-				pl = BoneWarriorBoss::create("boss-siling",2);
+				pl = BoneWarriorBoss::create("BoneWarrior",2);
 				pl->setHpEff(HpEff(1.0f,100.0f));		//???????
 //				pl->addRewards(0.0f, 22, DropGoodsType::DropGoods_Gold1);
 //				pl->addRewards(0.0f, 11, DropGoodsType::DropGoods_Gold2);

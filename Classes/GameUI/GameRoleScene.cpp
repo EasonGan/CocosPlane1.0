@@ -3902,7 +3902,7 @@ void LevelOptionLayer::updateAnimWithLevel(int level)
 	case 11:
 	case 15:
 	{
-		bossAnim = Armature::create("boss-siling");
+		bossAnim = Armature::create("BoneWarrior");
 		bossAnim->getAnimation()->playByIndex(0);
 		bossAnim->setPosition(Vec2(0, 80));
 		bossAnim->setScale(0.8);

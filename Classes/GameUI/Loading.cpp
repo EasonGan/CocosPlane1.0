@@ -126,9 +126,9 @@ void LoadingLayer::initFile()
 		"animation/boss1/kaijia.ExportJson");
 
 	//BOSS2
-	addArmatureRes("animation/boss2/boss-siling0.png",
-		"animation/boss2/boss-siling0.plist",
-		"animation/boss2/boss-siling.ExportJson");
+	addArmatureRes("animation/BoneWarrior/BoneWarrior0.png",
+		"animation/BoneWarrior/BoneWarrior0.plist",
+		"animation/BoneWarrior/BoneWarrior.ExportJson");
 
 	//BOSS眼睛
 	addArmatureRes("animation/boss-siyan/boss-siyan0.png",

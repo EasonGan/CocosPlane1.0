@@ -69,14 +69,19 @@ void NewAudio::preloadAllFile()
 
 void NewAudio::playBgMusicForce( const std::string& file)
 {
-	if (!_mucicState)
-	{
-		return;
-	}
 	if (file == m_CurBgMusicFile)
 	{
 		return;
 	}
+	else
+	{
+		m_CurBgMusicFile = file;
+	}
+	if (!_mucicState)
+	{
+		return;
+	}
+	
 #if UseOldAudio == 1
 	SimpleAudioEngine::getInstance()->playBackgroundMusic(file.c_str(),true);
 	m_CurBgMusicFile = file;
@@ -155,7 +160,7 @@ void NewAudio::setMusicState( bool state )
 
 	_mucicState = state;
 #ifdef WIN32 
-	_mucicState = true;
+	//_mucicState = true;
 #endif
 	if (m_CurBgMusicFile.empty())
 	{
